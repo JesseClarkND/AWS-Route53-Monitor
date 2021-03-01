@@ -1,0 +1,39 @@
+{
+    "dangling_pointers": [
+        {
+            "eip": "3.44.139.44",
+            "environment_hosted_zone": "Z1BZAE8AO8KRY6",
+            "profile_name": "hodesdev",
+            "resourse_name": "cloud.example.us.",
+            "type": "A"
+        },
+        {
+            "eip": "3.95.44.44",
+            "environment_hosted_zone": "Z1BZAE8AO8KRY6",
+            "profile_name": "hodesdev",
+            "resourse_name": "dev.example.us.",
+            "type": "A"
+        },
+        {
+            "eip": "3.44.44.44",
+            "environment_hosted_zone": "Z1BZAE8AO8KRY6",
+            "profile_name": "hodesdev",
+            "resourse_name": "robot.example.us.",
+            "type": "A"
+        },
+        {
+            "eip": "44.44.44.26",
+            "environment_hosted_zone": "Z1BZAE8AO8KRY6",
+            "profile_name": "hodesdev",
+            "resourse_name": "wordprss.example.us.",
+            "type": "A"
+        }
+    ],
+    "profile_name": "env_name",
+    "regions_tested": [
+        "us-east-1",
+        "us-east-2",
+        "us-west-1",
+        "us-west-2"
+    ]
+}
